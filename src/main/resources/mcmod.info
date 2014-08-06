@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutorialmod",
+  "name": "Tutorial Mod",
+  "description": "A Youtube Mod",
+  "version": "",
+  "mcversion": "${mcversion}",
+  "url": "www.minecraftfunize.com/modding",
+  "updateUrl": "",
+  "authorList": ["FunizeGaming"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
